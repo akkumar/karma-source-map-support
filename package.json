@@ -37,6 +37,6 @@
   },
   "devDependencies": {
     "eslint": "^4.1.1",
-    "eslint-config-tschaub": "^6.0.0"
+    "eslint-config-tschaub": "^9.0.0"
   }
 }
